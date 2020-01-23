@@ -1,0 +1,27 @@
+{
+  "name": "db4-challenge",
+  "version": "1.0.0",
+  "description": "typical lambda ",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.20.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanAlexander22/node-db4-challenge.git"
+  },
+  "author": "jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordanAlexander22/node-db4-challenge/issues"
+  },
+  "homepage": "https://github.com/JordanAlexander22/node-db4-challenge#readme"
+}
